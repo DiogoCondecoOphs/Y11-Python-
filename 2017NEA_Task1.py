@@ -1,5 +1,5 @@
 #2017NEA_Task1.py
-#Digo.c
+#Diogo.c
 
 print("""
           ######################
