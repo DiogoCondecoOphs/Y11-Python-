@@ -1,3 +1,6 @@
+#WHILELOOPchallenges05
+#Diogo.c
+
 compnum = 50
 num = int(input("please enter a number "))
 count = 1
