@@ -1,3 +1,6 @@
+#stringslicing04.py
+#Diogo.c
+
 nrhyme = str(input("Please enter the first line of a nursery rhyme: "))
 length = len(nrhyme)
 
