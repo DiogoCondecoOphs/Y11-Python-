@@ -1,3 +1,6 @@
+#stringslicing07.py
+#Diogo.c
+
 fname = str(input("please enter your name: "))
 
 if fname[0] == "a":
