@@ -1,3 +1,6 @@
+#forloops08.py
+#Diogo.c
+
 dic = str(input("what direction do you want to count u/d?: ")).lower()
 
 if dic == "u":
