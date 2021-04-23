@@ -1,3 +1,6 @@
+#2017NEA_Task2.py
+#Diogo.c
+
 def calculator():
 
     print("Welcome to the registration calculator")
