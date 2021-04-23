@@ -1,3 +1,6 @@
+#selection008.py
+#Diogo.c
+
 num = int(input("Please enter either number: 1 , 2 , 3 "))
 
 if num == 1:
