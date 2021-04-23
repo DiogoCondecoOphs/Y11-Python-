@@ -1,3 +1,5 @@
+#.find string04.py
+#Diogo.c
 num = "123456789"
 
 ind3 = num.find("3")
