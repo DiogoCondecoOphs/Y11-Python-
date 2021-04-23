@@ -1,3 +1,6 @@
+#WHILELOOPchallenges02
+#Diogo.c
+
 num = 0
 while num < 5:
     num2 = int(input("please enter a number "))
