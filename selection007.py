@@ -1,3 +1,6 @@
+#selection007.py
+#Diogo.c
+
 num = int(input("please enter a number"))
 
 if num < 10:
