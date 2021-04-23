@@ -1,3 +1,6 @@
+#selection006.py
+#Diogo.c
+
 age = int(input("Please enter your age: "))
 
 if age >= 18:
