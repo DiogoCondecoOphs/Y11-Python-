@@ -1,3 +1,6 @@
+#forloops07.py
+#Diogo.c
+
 total = 0
 for i in range(0,6):
     num = int(input("please enter a number"))
