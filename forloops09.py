@@ -1,3 +1,6 @@
+#forloops09.py
+#Diogo.c
+
 inv = int(input("please enter the number of invitees you want "))
 
 if inv < 10:
