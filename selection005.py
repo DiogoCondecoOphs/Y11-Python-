@@ -1,3 +1,6 @@
+#selection005.py
+#Diogo.c
+
 rain = str(input("Is it raining right now?: ")).lower()
 
 if rain == "yes":
