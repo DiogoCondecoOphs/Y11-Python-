@@ -1,3 +1,6 @@
+#selection01.py
+#Diogo.c
+
 num = int(input("Please enter a number:"))
 num2 = int(input("Please enter another number:"))
 
