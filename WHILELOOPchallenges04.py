@@ -1,3 +1,6 @@
+#WHILELOOPchallenges04
+#Diogo.c
+
 count = 0
 valid = "y"
 
