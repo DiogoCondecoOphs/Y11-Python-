@@ -1,3 +1,6 @@
+#stringslicing06.py
+#Diogo.c
+
 fname = str(input("Please enter your first name: "))
 length = len(fname)
 
