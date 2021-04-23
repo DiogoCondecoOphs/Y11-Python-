@@ -1,3 +1,6 @@
+#WHILELOOPchallenges07
+#Diogo.c
+
 val = 10
 
 
