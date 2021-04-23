@@ -1,3 +1,5 @@
+#.find string02.py
+#Diogo.c
 url = str("google.com")
 
 target ="."
