@@ -1,3 +1,6 @@
+#WHILELOOPchallenges03
+#Diogo.c
+
 num1= int(input("please enter a number "))
 total = num1
 val= "y"
