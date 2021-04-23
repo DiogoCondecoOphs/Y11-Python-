@@ -1,3 +1,6 @@
+#stringslicing08.py
+#Diogo.c
+
 val = "y"
 loop = 1
 
